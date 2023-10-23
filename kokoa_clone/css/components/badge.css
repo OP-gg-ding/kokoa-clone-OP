@@ -1,0 +1,42 @@
+.nav__notification,
+.badge {
+    background-color: tomato;
+    width: 25px;
+    height: 25px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+}
+
+.정보 {
+    background-color: tomato;
+    width: 8px;
+    height: 8px;
+    border-radius: 4px;
+    display: flex;
+    position: absolute;
+    left: 70px;
+    bottom: 23px;
+}
+
+.정보2 {
+    left: 118px;
+}
+
+.badge__N {
+    background-color: tomato;
+    width: 20px;
+    height: 20px;
+    border-radius: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-weight: 600;
+    font-size: 12px;
+    margin-right: auto;
+    margin-left: 5px;
+}

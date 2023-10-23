@@ -1,0 +1,74 @@
+.video-img__pv {
+    width: 140px;
+    height: 200px;
+    border-radius: 15px;
+    
+    
+}
+
+.video-img {
+    margin: 40px 10px;
+}
+
+
+
+.video-img__view {
+    bottom: 2%;
+}
+
+.video {
+    display: flex;
+    
+}
+
+ .video-img__pv--view {
+    display: flex;
+    position: absolute;
+    color: rgba(255, 255, 255, 1);
+    font-weight: 400;
+    font-size: 13px;
+    bottom: 10%;
+    left: 10px;
+}
+
+.video-img__img {
+    display: flex;
+    position: relative;
+}
+
+.view-2 {
+    
+    display: flex;
+    bottom: 2%;
+}
+
+.fa-circle-exclamation {
+    display: flex;
+}
+
+
+.video__ralo-now {
+    margin-top: 10px;
+    display:flexbox;
+    justify-content: center;
+    align-items: center;
+    font-weight: 600;
+    
+}
+
+.video__ralo-now__view1 {
+    display: block;
+    font-size: 20px;
+}
+
+.video__ralo-now__view2 {
+    font-size: 16px;
+}
+
+.video__ralo-now__view3 {
+    opacity: 0.6
+}
+
+.more__body {
+    height: 120vh;
+}
