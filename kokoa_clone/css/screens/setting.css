@@ -1,0 +1,31 @@
+
+.setting__setting {
+    padding: 20px 0;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    font-size: 18px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.setting__setting i {
+    margin-right: 10px;
+}
+
+.setting__setting-column__id {
+    opacity: 0.7;
+}
+
+.setting-list {
+    border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+    padding: 10px 0;
+}
+
+.setting__setting:last-child {
+    border-bottom: none;
+}
+
+.setting-list2 {
+    border-bottom: none;
+}
